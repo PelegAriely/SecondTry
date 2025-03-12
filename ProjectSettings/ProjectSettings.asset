@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: a79c8c9ed731b3a4f9bffab7b51f7a2d
+  productGUID: 2ceb7c9a543cc2a48b5f170713a9068c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: SecondTry
+  productName: test
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -837,14 +837,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: SecondTry
+  metroPackageName: test
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: SecondTry
+  metroApplicationDescription: test
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -915,10 +915,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 1f89f4e1-1e3c-4e41-a0c2-d16182de3165
+  cloudProjectId: 7bed96e5-7061-400a-9341-a1d05e3a8b85
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: SecondTry
+  projectName: test 2025-03-12_18-37-26
   organizationId: pelegariely98
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
